@@ -1,0 +1,9 @@
+com\example\curso\controller\UserController.class
+com\example\curso\CursoApplication.class
+com\example\curso\repository\UserRepository.class
+com\example\curso\entity\User.class
+com\example\curso\exception\ErrorDetail.class
+com\example\curso\controller\RestClientController.class
+com\example\curso\exception\GlobalExceptionHandler.class
+com\example\curso\exception\ResourceNotFoundException.class
+com\example\curso\exception\APIException.class
